@@ -1,0 +1,16 @@
+{
+  "name": "lightTable.js",
+  "version": "1.0.0",
+  "private": true,
+  "license":"MIT",
+  "description": "In-browser photo analysis suite.",
+  "author": "Joshua Beckman <@jbckmn>",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jbckmn/lightTable.js.git"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-uglify": "*"
+  }
+}
